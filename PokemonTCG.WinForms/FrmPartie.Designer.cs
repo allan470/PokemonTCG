@@ -215,9 +215,9 @@
             lblActifAdversaire.Location = new Point(2, 48);
             lblActifAdversaire.Margin = new Padding(4, 0, 4, 0);
             lblActifAdversaire.Name = "lblActifAdversaire";
-            lblActifAdversaire.Size = new Size(150, 25);
+            lblActifAdversaire.Size = new Size(158, 25);
             lblActifAdversaire.TabIndex = 0;
-            lblActifAdversaire.Text = "lblActifAdversaire";
+            lblActifAdversaire.Text = "lblActifAdversaires\r\n";
             // 
             // lblMessage
             // 

@@ -120,5 +120,6 @@ namespace PokemonTCG.WinForms
             AfficherMessage("Tour terminé.", false);
             ActualiserAffichage();
         }
+
     }
 }
